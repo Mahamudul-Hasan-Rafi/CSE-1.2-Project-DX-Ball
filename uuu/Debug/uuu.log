@@ -1,0 +1,17 @@
+﻿Build started 1/7/2020 4:12:16 PM.
+     1>Project "D:\Game Project\DX Ball (Final Submission)\uuu\uuu.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\uuu.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         uuu.vcxproj -> D:\Game Project\DX Ball (Final Submission)\Debug\uuu.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\uuu.unsuccessfulbuild".
+         Touching "Debug\uuu.lastbuildstate".
+     1>Done Building Project "D:\Game Project\DX Ball (Final Submission)\uuu\uuu.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.26
